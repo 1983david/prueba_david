@@ -1,7 +1,7 @@
 <%-- 
     Document   : ListarEstudiante
     Created on : 03/08/2020, 09:09:20 AM
-    Author     : TuNombre
+    Author     : David Guia 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
